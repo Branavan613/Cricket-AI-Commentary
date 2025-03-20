@@ -91,22 +91,6 @@ Our AI-powered commentary system offers:
 
 ---
 
-## Implementation Plan
-### Short-Term (Months 1-3)
-- Finalize AI model.
-- Tune and test the AI model.
-- Create a demo and conduct pilot testing.
-
-### Mid-Term (Months 4-6)
-- Launch targeted campaigns for lower-tier leagues.
-- Deploy with early adopters and build brand presence.
-
-### Long-Term (Months 7-12)
-- Expand features (e.g., sentiment-based commentary, highlights).
-- Scale to higher-tier leagues for increased exposure.
-
----
-
 ## How to Run the Project
 
 ### Prerequisites
@@ -137,18 +121,6 @@ Our AI-powered commentary system offers:
 3. Start the YOLO-based event detection system to send POST requests to the API.
 
 4. Monitor the API responses for real-time commentary generation.
-
----
-
-## Future Plans
-1. **Feature Expansion**:
-   - Sentiment-based commentary.
-   - Automated highlight generation.
-2. **Scaling**:
-   - Expand to higher-tier leagues.
-   - Support for other sports (e.g., football, basketball).
-3. **Partnerships**:
-   - Collaborate with streaming platforms like YouTube and Twitch.
 
 ---
 
