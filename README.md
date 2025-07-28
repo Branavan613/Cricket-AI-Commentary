@@ -91,9 +91,8 @@ Our AI-powered commentary system offers:
 
 ---
 ## DEMO
-The file size for the demo video is a bit too large to share directly here on GitHub, but check it out at the following link:
-https://drive.google.com/file/d/1enj4YhATedyu6dIrS7TZOMSGxLJEz_rh/view?usp=sharing
-[![Demo Video](https://drive.google.com/file/d/1o0Iyk3ogYugQBt_9WFKGe31ONzcMnSCj/view?usp=sharing)](https://drive.google.com/file/d/1enj4YhATedyu6dIrS7TZOMSGxLJEz_rh/view?usp=sharing)
+The file size for the demo video is a bit too large to share directly here on GitHub, but check it out by clicking on the image below:
+[![Demo Video](cricket_demo.png)](https://drive.google.com/file/d/1enj4YhATedyu6dIrS7TZOMSGxLJEz_rh/view?usp=sharing)
 
 ## How to Run the Project
 
